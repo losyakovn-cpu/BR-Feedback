@@ -2,7 +2,7 @@ import telebot
 import os
 from datetime import datetime
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("AAHpc0NBpEn2rCIc03TlKwUbubaM10reeaw")
 ADMIN_CHAT_ID =361767303  #8447605623:AAHpc0NBpEn2rCIc03TlKwUbubaM10reeaw
 
 bot = telebot.TeleBot(BOT_TOKEN)
